@@ -1,0 +1,2 @@
+# anime-api
+Simple CRUD
